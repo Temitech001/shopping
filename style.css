@@ -92,8 +92,10 @@ nav {
   cursor: pointer;
 }
 .avatar {
-  width: 50px;
+  width: 40px;
+  height: 40px;
   margin: 1rem 0;
+  border-radius: 50px;
 }
 .avatar:hover {
   outline: 2px solid var(--Orange);
